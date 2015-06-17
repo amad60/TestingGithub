@@ -1,2 +1,3 @@
 # TestingGithub
-Ini tutorial github dari youtube
+
+Ini adalah editan deskripsi README file di dalam terminal git Bash
